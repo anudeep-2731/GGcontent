@@ -1,5 +1,5 @@
 
-computer science topics:
+computer science:
 c programming,java,phython,c++ etc
 Data structures,Algorithums
 operating system,cn,co,dbms,
