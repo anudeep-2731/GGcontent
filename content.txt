@@ -1,0 +1,68 @@
+
+computer science topics:
+c programming,java,phython,c++ etc
+Data structures,Algorithums
+operating system,cn,co,dbms,
+Android development
+web development
+
+Placement:
+competetive programming,
+Data structure ,algorithums
+Reasoing,Aptitude;
+soft skills
+mock interviews
+common interview questions/answers.
+
+Trenting technologies:
+cloud computing,Big Data,
+vr,Ar,Quatum computing,
+Machine learning,A.I,
+Block chain,
+Placment guide,
+non sql databases;
+
+Modern tecnologys:
+cyber security
+hacking
+robotics
+
+Gate Aspirants:
+gate materials
+
+Articals:
+placement,future of cse,etc;
+
+
+
+
+Topic 
+1 best websites with description.
+2 best courses in udemy,course era etc.
+3 best youtube channels.
+4 contests/practices  on toipcs. 
+5 best textbooks.
+
+importance of the topic and real life applications of the topic.
+
+
+"C:\Program Files\MongoDB\Server\4.2\bin\mongo.exe"
+
+
+
+
+competetive programming:
+hackerearth:https://www.hackerearth.com/practice/
+hackerearth provides a great programming console with categorized problems and gives a great exprience of solving problems efficiently as it provides a wide range of test cases which allows us to write code optimaly,
+and also it provides most of it services free of cost
+hackerrank:https://www.hackerrank.com/dashboard
+hackerrank is a user friendly coding platform which allows begginers to proffesionals to practice competetive programming,and provides problems from easy to hard which allows begginers to learn to code,and it provides most of it services free of cost.
+leetcode:
+geeksforgeeks: https://www.geeksforgeeks.org/
+greeksforgeeks is a computer science portal for geeks which provides solutions for most of the competetive programming problems and interview problems
+
+
+
+
+
+

@@ -1,0 +1,55 @@
+{
+   name:" ",                                                      
+     tdes:" ",
+       ariurl:"",
+          img:" ",
+      websites:[
+             {name:"",des:"",url:""},
+             {name:"",des:"",url:""},
+             {name:"",des:"",url:""}
+             ],
+     courses:[
+          {name:"",des:"",url:""},
+          {name:"",des:"",url:""},
+          {name:"",des:"",url:""}
+             ],
+
+    utubechan:[
+        {name:"",des:"",url:""},
+        {name:"",des:"",url:""},
+        {name:"",des:"",url:""}
+         ],
+    practice:[
+        {name:"",des:"",url:""},
+        {name:"",des:"",url:""},
+        {name:"",des:"",url:""}
+             ],
+    courses:[
+      {name:"",des:"",url:""},
+      {name:"",des:"",url:""},
+      {name:"",des:"",url:""}
+      ],
+    books:[
+      {name:"",des:"",url:""},
+      {name:"",des:"",url:""},
+      {name:"",des:"",url:""}
+         ],
+    ades:" ";
+}
+
+***********************
+tdes->topic description;
+ariurl->any  articles on topics url;
+ades->aplications and usage of the topic description.
+
+
+
+{websites : [ ], courses : [ ], channels : [ ], contests : [ ], testbooks : [ ],
+ name : "c programing", img : "https://img-a.udemycdn.com/course/750x422/2638042_ea2c_5.jpg";}
+
+
+
+
+
+
+

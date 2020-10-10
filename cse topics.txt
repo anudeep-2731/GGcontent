@@ -1,0 +1,24 @@
+cse Topics:
+C programming.
+Java programming.
+Phython Programming.
+c++ programming.
+Data structures and algorithums.
+computer organization.
+flat.
+compiler design.
+cn
+os
+dbms
+ooad
+dwdm
+..................
+Placement Topics:
+competetive programming.
+Data structures,Algorithums.
+Reasoning ,Aptitude.
+Soft Skills
+Mock Interviews.
+Common interview questions.
+Interview Experiences,pattern of different companies.
+

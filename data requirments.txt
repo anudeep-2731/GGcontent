@@ -1,0 +1,30 @@
+Topic name:
+Meaning/description about topic:
+Any articles links(which tells importance of topic):
+Description of usage of topic in real world(if laguage usage of that in companies,tecnologies etc):
+websites:
+
+if(resourse only for certain topic mention the topic in description with bold letters) 
+1.name of website:
+  description of website:
+  Url link:
+....
+courses:
+1.name of course:
+  description of course:
+  Url link:
+....
+Youtube channels:
+1.name of channel:
+ des:
+ linK:
+.........
+books:
+1.name:
+ des:
+ linK:
+.......
+Any practices site,or webinars:
+1.name:
+ des:
+ link:
